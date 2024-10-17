@@ -1,0 +1,44 @@
+    URL Shortening Landing Page
+    Single Price Grid Component
+    Intro-Component with Signup Form
+    Pricing Component with Toggle
+    Product Landing Page
+    Bookmark Landing Page
+    Base Apparel Coming Soon Page
+    Rock, Paper, Scissors Game
+    Temperature Converter
+
+B. Front end web developer projects for Intermediates:
+
+    Quiz App  
+    Build a Calculator
+    Build a Content Management System
+    Music player using JavaScript
+    To Do List App
+    Responsive Blog Website
+    Job Listings with filtering
+    Build a Weather App  
+    Build your own portfolio site
+    My-team multi-page website
+    REST Countries API with Color theme Switcher
+
+C. Front end development projects for experienced professionals:
+
+    Calendar Viewer Component
+    Multi-select Search Component
+    Video Player Web App
+    Social Media Aggregator
+    Sustainability Tracker
+    Interactive Map for Local Services
+
+
+
+    Unit
+    Currency
+    File Format Converter
+    Time Zone Converter
+    Color Converter
+    Speed
+    Energy
+    Area
+    Pressure
