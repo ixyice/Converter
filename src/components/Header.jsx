@@ -16,8 +16,9 @@ function Header() {
               <Nav.Link>
                 <Link to='/temp'>Temperature</Link>
               </Nav.Link>
-                
-                <Nav.Link href="#pricing">Pricing</Nav.Link>
+              <Nav.Link>
+                <Link to='/weight'>Weight</Link>
+              </Nav.Link>
               </Nav>
           </Container>
         </Navbar>

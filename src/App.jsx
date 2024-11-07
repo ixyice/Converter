@@ -5,6 +5,7 @@ import Header from './components/Header.jsx'
 import Temperature from './pages/Temperature.jsx';
 import NoPage from "./pages/NoPage";
 import Home from "./pages/Home.jsx";
+import Weight from './pages/Weight.jsx';
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -17,6 +18,7 @@ function App() {
         <Route path="/" element={<Header />}>
           <Route index element={<Home />} />
           <Route path="/temp" element={<Temperature />} />
+          <Route path="/weight" element={<Weight />} />
           <Route path="*" element={<NoPage />} />
         </Route>
 
